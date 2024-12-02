@@ -10,7 +10,9 @@
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torabo)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=torado)](https://solved.ac/torado/)
 
+출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 ## What I've used :muscle:
 
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
