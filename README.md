@@ -9,10 +9,7 @@
 <a href="mailto:cheonwonbeom@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/tora0707/"><img src="https://img.shields.io/badge/linkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a><a href="https://velog.io/@c1035cc"><img src="https://img.shields.io/badge/velog-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torabo)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=torado)](https://solved.ac/torado/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=torabo)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=torado)](https://solved.ac/torado/)
 
 ## What I've used :muscle:
 
@@ -38,7 +35,8 @@
 - TOEIC SPEAKING - **AL**(160) (2023.11)
 
 ## Projects :sparkles:
-추가예정입니다.
+[청소년 자살 행동에 미치는 영향](https://github.com/torabo/project/tree/main/teen_suicide)
+
 
 ## About Human ME
 <details>
