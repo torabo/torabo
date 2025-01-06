@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FToraD07&count_bg=%2379C83D&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-> 2024년 하반기 데이터분석가/데이터엔지니어 취업을 목표로 공부하고 있습니다.
+> 데이터 분석가/데이터 엔지니어 취업을 목표로 공부하고 있습니다.
 
 ## Contact me with 🎵
 
@@ -25,7 +25,7 @@
 추가예정입니다.
 
 ## Education :book:
-**금오공과대학교 수리빅데이터 학과** (2019.03 ~ 2025.02 졸업예정)  
+**금오공과대학교 수리빅데이터 학과** (2019.03 ~ 2026.02 졸업예정)  
 - 주요 전공 과목
 > (A+) : 범주형 자료분석, 선형대수학, 빅데이터방법론, 미분방정식, 수리통계학1, 수리통계학2 , 수치해석학, 회귀분석, 암호학, 수리모델링, 데이터분석(Capstone), 빅데이터수학
 
