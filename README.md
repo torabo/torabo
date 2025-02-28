@@ -25,7 +25,7 @@
 추가예정입니다.
 
 ## Education :book:
-**금오공과대학교 수리빅데이터 학과** (2019.03 ~ 2026.02 졸업예정)  
+**금오공과대학교 수리빅데이터학과** (2019.03 ~ 2026.02 졸업예정)  
 - 주요 전공 과목
 > (A+) : 범주형 자료분석, 선형대수학, 빅데이터방법론, 미분방정식, 수리통계학1, 수리통계학2 , 수치해석학, 회귀분석, 암호학, 수리모델링, 데이터분석(Capstone), 빅데이터수학
 
@@ -33,6 +33,8 @@
 - ADsP (2022.11)
 - SQLD (2023.04)
 - TOEIC SPEAKING - **AL**(160) (2023.11)
+- DATARIAN SQL - Basic , Advanced (2025.02)
+- Google.org supported AI Career School (2025.02)
 
 ## Projects :sparkles:
 [청소년 자살 행동에 미치는 영향](https://github.com/torabo/project/tree/main/teen_suicide)
