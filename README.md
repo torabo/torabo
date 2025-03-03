@@ -33,8 +33,8 @@
 - ADsP (2022.11)
 - SQLD (2023.04)
 - TOEIC SPEAKING - **AL**(160) (2023.11)
-- DATARIAN SQL - Basic , Advanced (2025.02)
-- Google.org supported AI Career School (2025.02)
+- DATARIAN SQL 데이터분석 캠프 수료 - Basic , Advanced (2025.02)
+- Google.org supported AI Career School 수료 (2025.02)
 
 ## Projects :sparkles:
 [청소년 자살 행동에 미치는 영향](https://github.com/torabo/project/tree/main/teen_suicide)
