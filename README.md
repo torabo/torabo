@@ -36,6 +36,9 @@
 - DATARIAN SQL 데이터분석 캠프 수료 - Basic , Advanced (2025.02)
 - Google.org supported AI Career School 수료 (2025.02)
 - ADP (2025.05)
+- 빅데이터분석기사 (2025.07)
+- 한국사능력검정시험 2급 (2025.08)
+- JLPT N2 (2025.08)
 
 ## Projects :sparkles:
 [청소년 자살 행동에 미치는 영향](https://github.com/torabo/project/tree/main/teen_suicide)
@@ -49,6 +52,8 @@
 |기간|활동|참고|
 |:-:|-:|:-|
 |<sub>2023.10 ~ 2024.08</sub> | Working Holiday 🇯🇵 | * |
+|<sub>2025.7 ~ 2025.12</sub> | KOTRA 인턴 | * |
+
 
 
 </div>
