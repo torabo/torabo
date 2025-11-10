@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thank%20you%20for%20visiting&section=header&textBg=false&desc=I'm%20Wonbeom%20Cheon&descAlignY=71&descSize=25)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FToraD07&count_bg=%2379C83D&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 > 데이터 분석가/데이터 엔지니어 취업을 목표로 공부하고 있습니다.
 
@@ -42,7 +41,10 @@
 
 ## Projects :sparkles:
 [청소년 자살 행동에 미치는 영향](https://github.com/torabo/project/tree/main/teen_suicide)
-
+---------
+[한국 공공기관 지속가능경영보고서 CEO 메시지의 텍스트마이닝 기반 ESG 커뮤니케이션 패턴 분석](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003236628)
+[E-journal](https://contents.jams.or.kr/po/volisse/sjPubsArtiPopView.kci?soceId=INS000072267&artiId=SJ0000000441&sereId=SER000000001&submCnt=1)
+[Video](https://www.youtube.com/watch?v=mFca01G4h_g&feature=youtu.be)
 
 ## About Human ME
 <details>
